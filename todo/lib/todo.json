@@ -1,0 +1,18 @@
+[
+  {
+    "title": "First Todo",
+    "description": "This is my very first todo.",
+    "createdDate": "Friday 20: 22:42"
+  },
+  {
+    "title": "Second todo",
+    "description": "That was my second todo.",
+    "createdDate": "Friday 20: 22:42"
+  },
+  {
+    "title": "Third todo",
+    "description": "This is my third todo",
+    "createdDate": "Friday 20: 22:43"
+  }
+]
+
